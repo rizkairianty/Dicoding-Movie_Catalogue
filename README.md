@@ -2,6 +2,7 @@
 Project made for completing an Online Class, Kelas Menjadi Android Developer Expert (MADE), at Dicoding.com
 
 Submission 2 : UI UX
+
 Requirements atau Fitur yang harus ada pada aplikasi ini:
 
 Navigasi untuk halaman upcoming, now playing, dan search.
